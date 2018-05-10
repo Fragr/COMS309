@@ -9,6 +9,8 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Announcements page
 - Settings page to change user name, email, password, or delete account
 - Login page and ability to create an account
+- Leaderboards
+- Casual and Ranked games
 
 ## Features on Server
 - View and post announcements
@@ -23,3 +25,6 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Using Java's object oriented programming to create objects like a chessboard that took in chess tiles then put chess pieces on those tiles, and render this all to the screen using libGDX.
 - Using a thread for the socket connection so the app could still function properly.
 - Using Sockets to send and receive information once logged in on the client. I had to separate in-game socket requests (sending piece movements and receiving them) from everything else, like loading the friendlist or announcements pages. For all of these requests I needed to parse the information received in order to display it on the screen to the user. For the server-side sockets I made a list of users that included their socket connection, and other information we may need to use. This allowed us to search through the list to find the user and take their socket connection in order to connect them to a game with another user.
+
+## Pictures
+![alt text](https://imgur.com/a/5Hsnewc)
