@@ -27,4 +27,4 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Using Sockets to send and receive information once logged in on the client. I had to separate in-game socket requests (sending piece movements and receiving them) from everything else, like loading the friendlist or announcements pages. For all of these requests I needed to parse the information received in order to display it on the screen to the user. For the server-side sockets I made a list of users that included their socket connection, and other information we may need to use. This allowed us to search through the list to find the user and take their socket connection in order to connect them to a game with another user.
 
 ## Pictures
-![Leaderboard](https://imgur.com/a/5Hsnewc)
+![Leaderboard](https://imgur.com/a/0FqR0AS)
