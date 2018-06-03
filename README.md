@@ -9,10 +9,11 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Announcements page
 - Settings page to change user name, email, password, or delete account
 - Login page and ability to create an account
-- Leaderboards
+- Leader boards
 - Casual and Ranked games
 
 ## Features on Server (20% done by me)
+- Website
 - View and post announcements
 - Login page and ability to create an account
 - Delete users information from database (if you are an admin)
